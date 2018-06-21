@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1518991289 source:/home/yegemberdinazerke/labs/lab4/main.c
+	<stdio.h>
+
+1518983335 source:/home/yegemberdinazerke/labs/lab4/sjf.c
+	<stdio.h>
+	<stdlib.h>
+
